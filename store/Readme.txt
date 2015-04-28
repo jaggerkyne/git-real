@@ -1,1 +1,3 @@
-Please Readme before start using this software.
+Here is my readme
+
+the cake is a lie.....
