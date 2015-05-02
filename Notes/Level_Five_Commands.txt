@@ -66,6 +66,11 @@ git checkout v0.0.1
 # push tags to remote repo
 git push --tags
 
+# Delte a remote tag
+# http://stackoverflow.com/questions/5480258/how-to-delete-a-remote-git-tag
+git push origin :<tag_name>
+
+
 
 
 
